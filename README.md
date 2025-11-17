@@ -51,5 +51,14 @@ Place the following files inside the **model/** folder:
 These files are **not included in the repository** due to size limits.
 
 ---
+:
+
+🚀 Live Demo
+
+Try the live version of the chatbot here:
+
+👉 https://jarvis-chatbot-x53u.onrender.com
+
+This is a fully deployed Seq2Seq LSTM chatbot with Luong Attention, hosted on Render and accessible globally.
 
 
