@@ -6,3 +6,4 @@ keras
 h5py
 pydantic
 python-multipart
+gdown
